@@ -1,6 +1,6 @@
 {
-  "name": "xing-module-2",
-  "version": "0.4.1",
+  "name": "@xingyejiancheng/module-2",
+  "version": "0.3.0",
   "description": "module2",
   "keywords": [
     "abc"
@@ -21,5 +21,9 @@
   },
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "f35d7a593474199ba12de69df149a21481607ca0"
 }
