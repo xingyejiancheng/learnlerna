@@ -1,6 +1,6 @@
 {
-  "name": "@xingyejjiancheng/module-1",
-  "version": "0.4.0",
+  "name": "xing-module-1",
+  "version": "0.2.0",
   "description": "test",
   "keywords": [
     "test"
@@ -20,9 +20,12 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xingyejiancheng/module-2": "^0.4.0",
+    "xing-module-2": "^0.2.0",
     "lodash": "^4.17.21",
     "query-string": "^7.0.1"
   },
-  "gitHead": "f35d7a593474199ba12de69df149a21481607ca0"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "f02bfbe3e956124c4dceceff6a5950ae564a1cdb"
 }

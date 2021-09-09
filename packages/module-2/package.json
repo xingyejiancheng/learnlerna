@@ -1,5 +1,5 @@
 {
-  "name": "@xingyejiancheng/module-2",
+  "name": "xing-module-2",
   "version": "0.4.0",
   "description": "module2",
   "keywords": [
@@ -25,5 +25,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "f35d7a593474199ba12de69df149a21481607ca0"
+  "gitHead": "23d14184fb31fa7b31cfdb93677c69dea132e901"
 }
