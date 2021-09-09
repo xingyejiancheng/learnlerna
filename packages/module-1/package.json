@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "@xingyejjiancheng/module-1",
   "version": "0.1.0",
   "description": "test",
   "keywords": [
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "module-2": "^0.1.0",
+    "@xingyejiancheng/module-2": "^0.1.0",
     "query-string": "^7.0.1"
   }
 }
