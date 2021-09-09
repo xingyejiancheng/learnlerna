@@ -23,5 +23,6 @@
     "@xingyejiancheng/module-2": "^0.2.0",
     "lodash": "^4.17.21",
     "query-string": "^7.0.1"
-  }
+  },
+  "gitHead": "f02bfbe3e956124c4dceceff6a5950ae564a1cdb"
 }
