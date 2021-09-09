@@ -1,6 +1,6 @@
 {
   "name": "module-1",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "test",
   "keywords": [
     "test"
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "module-2": "^0.0.2",
+    "module-2": "^0.1.0",
     "query-string": "^7.0.1"
   }
 }
