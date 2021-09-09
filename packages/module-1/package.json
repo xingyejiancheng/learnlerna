@@ -1,6 +1,6 @@
 {
   "name": "@xingyejjiancheng/module-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test",
   "keywords": [
     "test"
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xingyejiancheng/module-2": "^0.0.1",
+    "@xingyejiancheng/module-2": "^0.0.2",
     "lodash": "^4.17.21",
     "query-string": "^7.0.1"
   },
